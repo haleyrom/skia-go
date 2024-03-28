@@ -5,7 +5,7 @@ package skia
 */
 import "C"
 import (
-	"github.com/uiez/skia-go/internal"
+	"github.com/haleyrom/skia-go/internal"
 )
 
 type skFontmgr = C.sk_fontmgr_t

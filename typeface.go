@@ -7,7 +7,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/uiez/skia-go/internal"
+	"github.com/haleyrom/skia-go/internal"
 )
 
 type skFontTableTag = C.sk_font_table_tag_t

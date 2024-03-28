@@ -7,7 +7,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/uiez/skia-go/internal"
+	"github.com/haleyrom/skia-go/internal"
 )
 
 type skPath = C.sk_path_t

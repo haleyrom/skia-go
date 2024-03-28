@@ -5,7 +5,7 @@ package skia
 */
 import "C"
 import (
-	"github.com/uiez/skia-go/internal"
+	"github.com/haleyrom/skia-go/internal"
 )
 
 type skRegion = C.sk_region_t
